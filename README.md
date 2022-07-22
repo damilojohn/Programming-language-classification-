@@ -1,2 +1,3 @@
 # Programming-language-classification-
-In this project , we see how to train a natural language processing model to classify a piece of lines of code into the programming language it belongs to . 
+This notebook contains a  step by step guide on using nlp to classify strings containing code from a programming language into the language it was written in.
+
